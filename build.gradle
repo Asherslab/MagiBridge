@@ -6,7 +6,7 @@ plugins {
     id 'maven'
 }
 
-group = 'com.magitechserver.magibridge'
+group = 'com.github.asherslab'
 version = '2.4.1'
 description = 'A utility Discord <-> Minecraft chat relay plugin'
 mainClassName = 'com.magitechserver.magibridge.MagiBridge'
